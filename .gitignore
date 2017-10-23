@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+
+
+misproject.iml
+node_modules/
+
+app.js
+bin/
+package.json
+public/
+routes/
+views/
